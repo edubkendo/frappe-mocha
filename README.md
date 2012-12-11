@@ -1,0 +1,3 @@
+# Frappe-Mocha
+
+Bindings for the mocha test framework to the vert.x platform. For those coming to vert.x from a node.js background or possibly even Ruby, this style of testing should feel more familiar. I was inspired after seeing haXe bindings for mocha, and also after feeling completely at a loss when trying to understand the current testing framework, which is based on jUnit. Also, mocha has a very simple and elegant solution for testing asynchronous code.
